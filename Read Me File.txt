@@ -1,0 +1,10 @@
+Installation and Set-up Instructions:
+
+1. Copy the "SWE645_CSD_EJB_JPS_JSF.ear" file and paste it in the following folder of your JBoss location: "..jboss\standalone\deployments\"
+2. Open folder: "..\jboss\bin"
+3. Double click on "standalone.bat" file.
+4. Open any web browser and hit this link: "http://localhost:9990/SWE645_CSD_EJB_JPS_JSF/
+
+
+
+AWS Link:--- http://52.5.119.128/SWE645_CSD_EJB_JPS_JSF-war/
